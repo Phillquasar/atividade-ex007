@@ -40,7 +40,7 @@ function fin() {
             return valormax
         })
         quantidade.innerHTML += ` O maior número é ${max}`
-        console.log (max)
+        console.log(max);
 
 
 
